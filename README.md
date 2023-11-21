@@ -1,2 +1,5 @@
 # NCP_Practice
-# 언더독 NCP 배포 교육
+
+
+# UDR NCP 배포 교육
+# DevOps_Practice
